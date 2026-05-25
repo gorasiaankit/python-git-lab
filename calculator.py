@@ -8,3 +8,4 @@ def subtract(a, b):
 
 def multiply(a, b):
     print(f"{a} * {b} = {a * b}")
+  
